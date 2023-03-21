@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angularassignment2-69539": {
+      "hosting": {
+        "testwebb": [
+          "angularassignment2-69539"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angularassignment2-69539"
+  }
+}
